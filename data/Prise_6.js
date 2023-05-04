@@ -1,0 +1,1 @@
+var json_Prise_6 = {"type":"FeatureCollection","name":"Prise_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nom":"Prise Perimètre Ti Boukan"},"geometry":{"type":"Point","coordinates":[-72.791545012051458,19.80684582045879]}}]}

@@ -1,0 +1,1 @@
+var json_Aqueduc_7 = {"type":"FeatureCollection","name":"Aqueduc_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nom":"Aqueduc"},"geometry":{"type":"Point","coordinates":[-72.792177549929178,19.807515490460652]}}]}
